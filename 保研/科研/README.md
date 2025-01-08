@@ -74,10 +74,10 @@ tips：可以系统学习，时间不够也可以直接跟着李沐老师的动�
 
 - 吴恩达深度学习课程第五讲
 - 李沐动手学深度学习NLP部分 51-70
-- 李宏毅：《人类语言处理》  **视频** [链接](https://www.bilibili.com/video/BV1QE411p7z3) **个人学习笔记** [链接](notes/03-李宏毅-深度学习与人类语言处理)
-- 斯坦福：cs224n **视频** [链接](https://www.bilibili.com/video/BV1Eb411H7Pq) **大佬学习笔记** [链接](https://looperxx.github.io/CS224n-2019-00-Info/)
+- 李宏毅：《人类语言处理》  **视频** [链接](https://www.bilibili.com/video/BV1QE411p7z3) 
+- 斯坦福：cs224n **视频** [链接](https://www.bilibili.com/video/BV1Eb411H7Pq) 
 
-**上手项目**：Tokenization、NER（命名体识别）、电影评论情感分析等(Follow关注仓库的更新☺...)
+**上手项目**：Tokenization、NER（命名体识别）、电影评论情感分析等
 
 **基本模型**：RNN、LSTM、BERT等，以及大火的GPT
 
@@ -103,8 +103,6 @@ tips：可以系统学习，时间不够也可以直接跟着李沐老师的动�
 
 - NLP：Hugging Face、LTP（NLP）
 - CV：open mmlab系列、detectron2
-
-<img src="imgs/mmlab.png" style="zoom:80%;" />
 
 ### 2.Others and Soft Skills
 
